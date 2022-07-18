@@ -3,8 +3,8 @@ module github.com/kaa-it/golang-trace-2/checkout
 go 1.18
 
 require (
-	github.com/kaa-it/golang-trace-2/proto v0.0.0-20220718172246-63de73a48614
-	github.com/kaa-it/golang-trace-2/utils v0.0.0-20220718172246-63de73a48614
+	github.com/kaa-it/golang-trace-2/proto v0.0.0-20220718180202-10c126c10b1e
+	github.com/kaa-it/golang-trace-2/utils v0.0.0-20220718180202-10c126c10b1e
 	github.com/streadway/amqp v1.0.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.33.0
 	go.opentelemetry.io/otel v1.8.0

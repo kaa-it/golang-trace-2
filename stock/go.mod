@@ -3,7 +3,7 @@ module github.com/kaa-it/golang-trace-2/stock
 go 1.18
 
 require (
-	github.com/kaa-it/golang-trace-2/utils v0.0.0-20220718175313-5be0338f3a61
+	github.com/kaa-it/golang-trace-2/utils v0.0.0-20220718180202-10c126c10b1e
 	github.com/streadway/amqp v1.0.0
 	go.opentelemetry.io/otel v1.8.0
 )

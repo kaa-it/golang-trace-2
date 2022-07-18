@@ -3,8 +3,8 @@ module github.com/kaa-it/golang-trace-2/gateway
 go 1.18
 
 require (
-	github.com/kaa-it/golang-trace-2/proto v0.0.0-20220718172246-63de73a48614
-	github.com/kaa-it/golang-trace-2/utils v0.0.0-20220718172246-63de73a48614
+	github.com/kaa-it/golang-trace-2/proto v0.0.0-20220718180202-10c126c10b1e
+	github.com/kaa-it/golang-trace-2/utils v0.0.0-20220718180202-10c126c10b1e
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.33.0
 	go.opentelemetry.io/otel v1.8.0
 	google.golang.org/grpc v1.48.0
@@ -14,6 +14,7 @@ require (
 	github.com/go-logr/logr v1.2.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
+	github.com/streadway/amqp v1.0.0 // indirect
 	go.opentelemetry.io/otel/exporters/jaeger v1.8.0 // indirect
 	go.opentelemetry.io/otel/sdk v1.8.0 // indirect
 	go.opentelemetry.io/otel/trace v1.8.0 // indirect

@@ -52,10 +52,10 @@ github.com/google/go-cmp v0.5.6/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/
 github.com/google/go-cmp v0.5.8 h1:e6P7q2lk1O+qJJb4BtCQXlK8vWEO8V1ZeuEdJNOqZyg=
 github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
-github.com/kaa-it/golang-trace-2/proto v0.0.0-20220718172246-63de73a48614 h1:dPAEiHwocheWE2HTo1GR2N7dqBQGvKFo7yHH4KE2Dg4=
-github.com/kaa-it/golang-trace-2/proto v0.0.0-20220718172246-63de73a48614/go.mod h1:7sx6mMS1/0tcqD694EyETB8CQLID4fX0gHYytIJ6urw=
-github.com/kaa-it/golang-trace-2/utils v0.0.0-20220718172246-63de73a48614 h1:3kvl8JquFeO7MOblp0TPiT08Opo5aPwfkyodCvq7OOM=
-github.com/kaa-it/golang-trace-2/utils v0.0.0-20220718172246-63de73a48614/go.mod h1:3Ltj82zIUC/OclN6kqdlyhZfr5MA+mrsNxZITgaGlcM=
+github.com/kaa-it/golang-trace-2/proto v0.0.0-20220718180202-10c126c10b1e h1:x8GdNhz/4dIH1Gvlwjp35Wy4l4GqVcVeSRCEZ67XcXw=
+github.com/kaa-it/golang-trace-2/proto v0.0.0-20220718180202-10c126c10b1e/go.mod h1:7sx6mMS1/0tcqD694EyETB8CQLID4fX0gHYytIJ6urw=
+github.com/kaa-it/golang-trace-2/utils v0.0.0-20220718180202-10c126c10b1e h1:/uOWFEpj4i9FbOhUin8qaUDVDRYvNZlhFc/abJolbLM=
+github.com/kaa-it/golang-trace-2/utils v0.0.0-20220718180202-10c126c10b1e/go.mod h1:3Ltj82zIUC/OclN6kqdlyhZfr5MA+mrsNxZITgaGlcM=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
