@@ -1,4 +1,2 @@
 checkout
 stock
-utils/amqp.go
-utils/carriers.go
