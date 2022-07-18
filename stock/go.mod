@@ -1,4 +1,4 @@
-module github.com/kaa-it/golang-trace/stock
+module github.com/kaa-it/golang-trace-2/stock
 
 go 1.18
 
