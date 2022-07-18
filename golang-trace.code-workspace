@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "proto"
+		},
+		{
+			"path": "utils"
+		},
+		{
+			"path": "gateway"
+		},
+		{
+			"path": "checkout"
+		},
+		{
+			"path": "stock"
+		}
+	]
+}
