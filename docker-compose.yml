@@ -46,7 +46,8 @@ services:
       - RABBITMQ_PORT=5672
     depends_on:
       - jaeger
-      - rabbitmq        
+      - rabbitmq
+      - stock
 
   gateway:
     build:
