@@ -7,7 +7,7 @@ import (
 	"github.com/streadway/amqp"
 )
 
-func ConnectAmqp(user, pass, host, port string) (*ampq.Channel, func() error) {
+func ConnectAmqp(user, pass, host, port string) (*amqp.Channel, func() error) {
 	address := fmt.Sprintf("amqp://%s:%s@%s:%s/", user, pass, host, port)
 
 	connection, err := amqp.Dial(address)

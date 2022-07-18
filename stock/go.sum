@@ -5,8 +5,8 @@ github.com/go-logr/logr v1.2.3/go.mod h1:jdQByPbusPIv2/zmleS9BjJVeZ6kBagPoEUsqbV
 github.com/go-logr/stdr v1.2.2 h1:hSWxHoqTgW2S2qGc0LTAI563KZ5YKYRhT3MFKZMbjag=
 github.com/go-logr/stdr v1.2.2/go.mod h1:mMo/vtBO5dYbehREoey6XUKy/eSumjCCveDpRre4VKE=
 github.com/google/go-cmp v0.5.8 h1:e6P7q2lk1O+qJJb4BtCQXlK8vWEO8V1ZeuEdJNOqZyg=
-github.com/kaa-it/golang-trace-2/utils v0.0.0-20220718172246-63de73a48614 h1:3kvl8JquFeO7MOblp0TPiT08Opo5aPwfkyodCvq7OOM=
-github.com/kaa-it/golang-trace-2/utils v0.0.0-20220718172246-63de73a48614/go.mod h1:3Ltj82zIUC/OclN6kqdlyhZfr5MA+mrsNxZITgaGlcM=
+github.com/kaa-it/golang-trace-2/utils v0.0.0-20220718175313-5be0338f3a61 h1:xKc/dxAgc4eHPLNaheQOk9e4lRkO6/YJUCy33Y9kNQA=
+github.com/kaa-it/golang-trace-2/utils v0.0.0-20220718175313-5be0338f3a61/go.mod h1:3Ltj82zIUC/OclN6kqdlyhZfr5MA+mrsNxZITgaGlcM=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/streadway/amqp v1.0.0 h1:kuuDrUJFZL1QYL9hUNuCxNObNzB0bV/ZG5jV3RWAQgo=
 github.com/streadway/amqp v1.0.0/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
